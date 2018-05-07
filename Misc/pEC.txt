@@ -1,0 +1,3 @@
+"pECBoth.count"	"freq"
+"1"	2	1
+"2"	4	1
